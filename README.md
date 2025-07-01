@@ -1,5 +1,6 @@
-# Ryan Barry
+# 👋 Hi, I'm Ryan Barry
 
-Robotics Engineer | Embedded Systems | AI/ML for Physical Systems
+Robotics Research Engineer II @ RAD Lab | Space Robotics | Embedded Systems | AI/ML for Physical Systems
 
-🔗 [Portfolio Website](https://ryanbarry.me)
+🚀 Dive into my work, explore projects, or get in touch at  
+🌐 **[ryanbarry.me](https://ryanbarry.me)**
