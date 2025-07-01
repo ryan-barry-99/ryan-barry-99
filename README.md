@@ -1,5 +1,5 @@
-### 👋 Hi, I'm Ryan
+# Ryan Barry
 
-I'm a robotics engineer passionate about embedded systems, machine learning, and space tech.
+Robotics Engineer | Embedded Systems | AI/ML for Physical Systems
 
-🚀 Check out my portfolio: [ryanbarry.me](https://ryanbarry.me)
+🔗 [Portfolio Website](https://ryanbarry.me)
